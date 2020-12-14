@@ -1,12 +1,21 @@
 
-2020-12-11 16:03:02 - temperature-topic/1 - 18
-2020-12-11 16:03:02 - +
+2020-12-14 14:21:53 - temperature-topic/1 - 17
+2020-12-14 14:21:53 - control-topic/2 - -
 
-2020-12-11 16:03:03 - temperature-topic/1 - 19
-2020-12-11 16:03:03 - +
+2020-12-14 14:21:56 - temperature-topic/1 - 15
+2020-12-14 14:21:56 - control-topic/2 - -
 
-2020-12-11 16:03:05 - temperature-topic/1 - 21
-2020-12-11 16:03:05 - +
+2020-12-14 14:22:00 - temperature-topic/1 - 16
+2020-12-14 14:22:00 - control-topic/2 - -
 
-2020-12-11 16:03:06 - temperature-topic/1 - 19
-2020-12-11 16:03:06 - +
+2020-12-14 14:22:04 - temperature-topic/1 - 24
+2020-12-14 14:22:04 - control-topic/2 - +
+
+2020-12-14 14:22:07 - temperature-topic/1 - 17
+2020-12-14 14:22:07 - control-topic/2 - -
+
+2020-12-14 14:22:11 - temperature-topic/1 - 23
+2020-12-14 14:22:11 - control-topic/2 - +
+
+2020-12-14 14:22:14 - temperature-topic/1 - 17
+2020-12-14 14:22:14 - control-topic/2 - -
